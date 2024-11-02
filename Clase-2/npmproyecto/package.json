@@ -1,0 +1,23 @@
+{
+  "name": "npmproyecto",
+  "version": "0.0.1",
+  "description": "Primer proyecto de NPM - Nodejs Mod 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js ",
+    "watch": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kambcode",
+    "backend",
+    "nodejs",
+    "mod5"
+  ],
+  "author": "William Saldarriaga N",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.12"
+  }
+}
