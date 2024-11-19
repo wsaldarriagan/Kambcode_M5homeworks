@@ -1,0 +1,15 @@
+{
+  "name": "funcion_async",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node init.js",
+    "watch": "node --watch init.js"
+  },
+  "keywords": [],
+  "author": "William Saldarriaga",
+  "license": "ISC",
+  "description": "proyecto para validar la importacion de funciones",
+  "type": "module"
+}
