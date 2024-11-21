@@ -1,0 +1,16 @@
+{
+  "name": "manejoarchivos",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch" : "node --watch index.js",
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Aprendizaje - escribir y leer archivos",
+  "type": "module"
+}
